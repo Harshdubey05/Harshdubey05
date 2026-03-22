@@ -84,7 +84,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harsh--dubey.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-dubey.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-moondasies-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshdubey05)
+[![GitHub](https://img.shields.io/badge/GitHub-Harshdubey05-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshdubey05)
 
 </div>
 
