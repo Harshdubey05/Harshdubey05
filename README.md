@@ -6,7 +6,7 @@
 
 - 🎨 **Frontend Developer & UI/UX Designer** crafting clean, modern web experiences
 - 💼 Currently **Freelancing** — building websites, full-stack apps, dashboards & landing pages for clients
-- 🦀 Learning **Rust**, automation, and better frontend architecture & scalability
+- 🦀 Learning **Automation**, and better frontend architecture & scalability
 - 🧠 Passionate about **Prompt Engineering**, rapid prototyping, and product thinking
 - 🌐 Portfolio: [harsh-dubey.vercel.app](https://harsh-dubey.vercel.app)
 
@@ -69,14 +69,13 @@
 
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moondasies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=Harshdubey05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdubey05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdubey05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshdubey05&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+<img src="https://streak-stats.demolab.com?user=Harshdubey05&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 </div>
-
 ---
 
 ## 📬 Connect With Me
