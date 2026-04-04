@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Dubey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Dubey&fontSize=72&fontColor=fff&fontAlignY=40&fontStyle=bold&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Builder&descAlignY=62&descSize=22&descColor=fff&animation=fadeIn" width="100%"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -12,20 +14,23 @@
 
 <br/>
 
-```bash
-$ whoami
-> Harsh Dubey — Frontend Developer & UI/UX Designer
+<div align="center">
 
-$ cat about.txt
-> Turning beautiful designs into fast, accessible web experiences.
-> Obsessed with micro-interactions, design systems & clean component APIs.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdubey05)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubey.harsh2019@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CC785C?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-dubey.vercel.app)
 
-$ echo $SUPERPOWER
-> I use AI tools to ideate, design & ship 10x faster than traditional devs ⚡
+</div>
 
-$ echo $STATUS
-> ✓ Available for opportunities
-```
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshdubey05&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Harshdubey05?style=for-the-badge&color=blueviolet&label=FOLLOWERS)
+[![GitHub](https://img.shields.io/badge/GITHUB-Harshdubey05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshdubey05)
+
+</div>
 
 ---
 
@@ -35,8 +40,7 @@ $ echo $STATUS
 - ⚛️ Obsessed with **React**, **Tailwind**, **Framer Motion** and pixel-perfect implementations
 - 🖌️ Expert in **Figma** — wireframes, design systems, interactive prototypes & handoff
 - 💼 Currently **Freelancing** — dashboards, landing pages, SaaS UIs and full-stack apps
-- 🤖 I use **AI tools** (Claude, Cursor, v0, Gemini) to **work 10x faster** — from ideation to deployment
-- 🚀 Learning **Rust**, **automation** and scalable frontend architecture
+- 🤖 Using **AI tools** (Claude, Cursor, v0, Gemini, AntiGravity) to **work 10x faster**
 - 🌐 Portfolio: [harsh-dubey.vercel.app](https://harsh-dubey.vercel.app)
 
 ---
@@ -61,17 +65,18 @@ $ echo $STATUS
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Deployment & Backend
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -85,8 +90,8 @@ Wireframing            ███████████████████
 Prototyping            ████████████████████  95%
 Interaction Design     ████████████████░░░░  90%
 Design Systems         ████████████████░░░░  90%
-Usability Testing      ████████████████░░░░  85%
-Motion Design          ████████████████░░░░  85%
+Usability Testing      ███████████████░░░░░  85%
+Motion Design          ███████████████░░░░░  85%
 Accessibility (a11y)   ██████████████░░░░░░  80%
 ```
 
@@ -99,12 +104,10 @@ Accessibility (a11y)   ██████████████░░░░░
 | Tool | Category | How I use it |
 |------|----------|-------------|
 | 🧠 **Claude** | Coding + Reasoning | Architecture, debugging, code review, complex logic |
-| ⚡ **Cursor** | IDE | AI-native coding — full features built in minutes |
-| 🎨 **v0 by Vercel** | UI Generation | Instant component scaffolding from descriptions |
-| 🌌 **Gemini** | Multimodal AI | Image generation, visual design concepts, ideation |
-| 🚀 **AntiGravity** | Automation | Workflow automation & agentic task pipelines |
+| ⚡ **Cursor/AntiGravity** | AI IDE | Full features built in minutes, not hours | Automation | Workflow automation & agentic task pipelines |
+| 🎨 **v0 by Vercel/Figma** | UI Generation | Instant component scaffolding from descriptions |
+| 🌌 **Gemini** | Multimodal AI | Image Gen | Image generation, visual design concepts, ideation |
 | 🤖 **GitHub Copilot** | Coding | Inline completions & boilerplate elimination |
-| 🖼️ **Midjourney** | Image Gen | UI assets, mood boards & concept art |
 | 🔍 **Perplexity** | Research | Deep research without leaving the flow state |
 
 > **Result:** What takes most devs a week, I ship in a day. What takes a day, I ship in an hour.
@@ -115,7 +118,7 @@ Accessibility (a11y)   ██████████████░░░░░
 
 **🧑‍💻 Freelancer — Self-Employed** &nbsp;`Oct '23 – Present`
 - Building full-stack web apps, SaaS dashboards & marketing sites for clients
-- Designed and implemented pixel-perfect UI systems with Figma → React workflows
+- Designed pixel-perfect UI systems with Figma → React workflows
 - Leverage AI-assisted development to deliver projects 10x faster
 - Stack: React · Node.js · JavaScript · Tailwind · MySQL
 
@@ -123,7 +126,7 @@ Accessibility (a11y)   ██████████████░░░░░
 - Developed **5+ responsive UI components** improving page responsiveness by **30%**
 - Integrated frontend with REST APIs, reducing page load time by **20%**
 - Refactored reusable components reducing code redundancy by **25%**
-- Collaborated with team of 4 using Git + Figma to ship production-ready UI features
+- Collaborated with a team of 4 using Git + Figma to ship production-ready UI features
 - Implemented form validation, error handling & cross-browser testing
 - Stack: HTML · JavaScript · Tailwind CSS · Figma · Git
 
@@ -133,7 +136,7 @@ Accessibility (a11y)   ██████████████░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshdubey05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&ring_color=a855f7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshdubey05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdubey05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="49%"/>
 
 </div>
@@ -147,17 +150,6 @@ Accessibility (a11y)   ██████████████░░░░░
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshdubey05&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-harsh--dubey.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-dubey.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Harshdubey05-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshdubey05)
 
 </div>
 
